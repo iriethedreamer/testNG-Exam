@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12653" started-at="2023-04-07T15:01:05 CDT" finished-at="2023-04-07T15:01:17 CDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12653" started-at="2023-04-07T15:01:05 CDT" finished-at="2023-04-07T15:01:17 CDT">
+      <class name="testngConcept.LearningTestNG">
+        <test-method status="PASS" signature="init()[pri:0, instance:testngConcept.LearningTestNG@e320068]" name="init" is-config="true" duration-ms="2429" started-at="2023-04-07T15:01:05 CDT" finished-at="2023-04-07T15:01:07 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="SelectDropDown()[pri:0, instance:testngConcept.LearningTestNG@e320068]" name="SelectDropDown" duration-ms="250" started-at="2023-04-07T15:01:07 CDT" finished-at="2023-04-07T15:01:07 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectDropDown -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:testngConcept.LearningTestNG@e320068]" name="TearDown" is-config="true" duration-ms="732" started-at="2023-04-07T15:01:07 CDT" finished-at="2023-04-07T15:01:08 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="init()[pri:0, instance:testngConcept.LearningTestNG@e320068]" name="init" is-config="true" duration-ms="1780" started-at="2023-04-07T15:01:08 CDT" finished-at="2023-04-07T15:01:10 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="UserAddCategory()[pri:0, instance:testngConcept.LearningTestNG@e320068]" name="UserAddCategory" duration-ms="403" started-at="2023-04-07T15:01:10 CDT" finished-at="2023-04-07T15:01:10 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserAddCategory -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:testngConcept.LearningTestNG@e320068]" name="TearDown" is-config="true" duration-ms="721" started-at="2023-04-07T15:01:10 CDT" finished-at="2023-04-07T15:01:11 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="init()[pri:0, instance:testngConcept.LearningTestNG@e320068]" name="init" is-config="true" duration-ms="1892" started-at="2023-04-07T15:01:11 CDT" finished-at="2023-04-07T15:01:13 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="UserCantAdd()[pri:0, instance:testngConcept.LearningTestNG@e320068]" name="UserCantAdd" duration-ms="3680" started-at="2023-04-07T15:01:13 CDT" finished-at="2023-04-07T15:01:17 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserCantAdd -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:testngConcept.LearningTestNG@e320068]" name="TearDown" is-config="true" duration-ms="734" started-at="2023-04-07T15:01:17 CDT" finished-at="2023-04-07T15:01:17 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- testngConcept.LearningTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
